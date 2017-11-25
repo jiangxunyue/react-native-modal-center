@@ -1,0 +1,11 @@
+{
+  "name": "react-native-modal-center",
+  "version": "1.0.0",
+  "description": "A tool to manage multiple RN modal elements",
+  "main": "src/ModalCenter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dsy",
+  "license": "ISC"
+}
